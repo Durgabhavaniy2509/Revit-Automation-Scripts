@@ -31,23 +31,23 @@ These scripts are designed and tested on **Autodesk Revit 2023, 2024 and 2025**,
 
 ## 💡 Why I Built This
 While working on Revit MEP projects, I noticed how much time repetitive manual tasks take.  
-These scripts were created to **eliminate repetitive actions**, reduce errors, and allow engineers to focus on deliverables instead of clicks.
+These scripts were created to **eliminate repetitive actions**, reduce errors and allow engineers to focus on deliverables instead of clicks.
 
 ---
 
 ## 🧰 Tested Environment
-- Autodesk Revit 2023,2024 and 2025  
+- Autodesk Revit 2023, 2024 and 2025  
 
 ---
 
 ## 📜 License
 This project is released under the [MIT License](./LICENSE).  
-You are free to use, modify, and share these scripts — just give proper credit.
+Feel free to use, modify and enhance these scripts — just don’t forget to credit the source that saved you a few hours of work😉
 
 ---
 
 ## 👤 Author
-**Durga Bhavani**  
+**Durga Bhavani Yasarapu**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/durgabhavaniyasarapu/)  
 💻 Passionate about BIM Automation, Dynamo and Revit API development.
 
